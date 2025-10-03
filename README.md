@@ -3,6 +3,7 @@ Cheat point/Matahari (Sun) Game Plants VS Zombie
 Dont forget to install
 1. Python
 2. pip install pymem
+3. Cheat Engine
  
  ### BEFORE USE CHEAT  
 ![img](img/before.png)
